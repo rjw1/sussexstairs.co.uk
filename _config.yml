@@ -1,0 +1,11 @@
+# Site settings
+title:  Sussex Stairs
+email: office@sussexstairs.co.uk
+description: "Sussex Stairs"
+baseurl: ""
+url: "http://sussexstairs.co.uk"
+
+# Build settings
+markdown: redcarpet
+permalink: pretty
+exclude : ['vendor', 'Gemfile*', 'bin', 'README.md']
